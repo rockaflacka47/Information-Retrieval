@@ -1,2 +1,4 @@
 # Information-Retrieval
-Information Retrieval class done period 2 fall 2018 at Vrije Universitet
+A series of assignments done in Jupynet Notebooks.
+
+Beginning with just making a working info retrieval system and as the assignments progress we make it more space and time efficient.
